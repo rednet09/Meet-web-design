@@ -1,0 +1,102 @@
+
+body{
+    
+    background-color: #053141;
+    margin-left: 130px;
+}
+h1{
+    margin: auto;
+    color: #31f0c5;
+    font-family: sen;
+    font-size: 9rem;
+    text-align: left;
+    
+   
+}
+.logo{
+    padding: 15px;
+}
+.pic1{
+    position: absolute;
+    left: 30px;
+    top: 60px;
+    z-index: -1;
+}
+
+.pic2{
+    position: absolute;
+    right: 55px;
+    top: 320px;
+    
+    z-index: -1;
+}
+
+.pic3{
+    position: absolute;
+    right: 150px;
+    top: 20px;
+    width: 150px;
+}
+
+.pic4{
+    position: absolute;
+    right: 350px;
+    top: 40px;
+    z-index: -1;
+}
+
+.pic5{
+    position: absolute;
+    right: 440px;
+    bottom: 160px;
+    z-index: -1;
+}
+
+.pic6{
+    position: absolute;
+    right: 100px;
+}
+p{
+    color: #fff;
+    font-family: inter;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: left;
+    padding-bottom: 20px;
+    width: 30%;
+
+}
+
+button{
+   
+    width: 200px;
+    height: 60px;
+    font-family: "inter";
+   
+   
+    
+    font-weight: bold;
+    text-align: center;
+    color: #053141;
+    background-color: #31f0c5;
+    border-radius: 5px;
+    border: none;
+}
+
+
+footer{
+   padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.Twitter-img{
+    display: inline-block;
+    width: 20px;
+
+}
+
+.cta{
+    padding-top: 20px;
+    margin-left: 10px;
+}
